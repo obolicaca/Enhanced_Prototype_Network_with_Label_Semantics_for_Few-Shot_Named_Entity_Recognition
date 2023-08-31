@@ -1,0 +1,2 @@
+# Enhanced_Prototype_Network_with_Label_Semantics_for_Few-Shot_Named_Entity_Recognition
+论文代码：面向小样本命名实体识别的标签增强原型网络  paper code for :Enhanced_Prototype_Network_with_Label_Semantics_for_Few-Shot_Named_Entity_Recognition
